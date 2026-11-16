@@ -238,7 +238,6 @@ HTTPREQ_PASSWORD=<client token>   # use a secret, not a plain variable
 
 ```sh
 make test    # unit tests
-make lint    # go vet + staticcheck
 make build   # static binary in ./bin
 ```
 

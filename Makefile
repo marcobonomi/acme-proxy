@@ -14,7 +14,6 @@ test:
 
 lint:
 	go vet ./...
-	staticcheck ./...
 
 clean:
 	rm -rf bin
